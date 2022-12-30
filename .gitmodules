@@ -1,0 +1,4 @@
+[submodule "binblog/public"]
+	path = binblog/public
+	url = https://github.com/Bingersoda/bingersoda.github.io.git
+	branch = main
